@@ -1,0 +1,196 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+
+||*.global.ssl.fastly.net
+||*.s3.amazonaws.com
+||cdn.optimizely.com
+||gurgle.zdbb.net
+||cdn.static.zdbb.net
+||walker.zdbb.net
+
+! Microsoft Start
+||live.com
+||ajax.aspnetcdn.com
+||docs.microsoft.com
+||azure*.net
+||channel9.msdn.com
+||ch9.ms
+! Microsoft End
+
+! Oracle Start
+||java.com
+||oracle.com
+||java.net
+! Oracle End
+
+! UPlay Start
+! ||ubistatic*.akamaihd.net
+! ||static*.cdn.ubi.com
+! ||static*.ubi.com
+! ||uplay-s-ubisoft.cdn.ubi.com
+! ||api-ubiservices.ubi.com
+! ||public-ubiservices.ubi.com
+! ||lb-upc-dmx.ubisoft.com
+! ||msr-api-ubiservices.ubi.com
+! ||ubi.com
+! UPlay End
+
+@@||tc.qq.com
+|http://sonicether.com
+|http://www.minecraftforum.net
+||cursecdn.com
+||mediafire.com
+||www.aida64.com
+||chuyu.me
+||tiny.cc
+||crystalmark.info
+||www.filefacts.com
+||aegisub.org
+||*.teamviewer.com
+||www.utorrent.com
+||share.dmhy.org/
+|https://notepad-plus-plus.org/
+||nhentai.net
+@@||bilibili.com
+||ikoula.com/
+|http://www.bind9.net/
+||sourceforge.net
+||googletagservices.com
+|http://consent-st.truste.com/
+|http://partner.googleadservices.com/
+||winscp.net
+||cdn77.org
+||cdn77.com
+||google-analytics.com
+||gstatic.com
+||googlesyndication.com
+||notepad-plus-plus.org
+||yande.re
+||grammarly.com
+||*.akamai*.net/
+|https://www.hrkgame.com/
+||download.virtualbox.org
+||stackoverflow.com
+||dlh.net
+|https://tdesktop.com
+||winmtr.net
+|https://downloadmirror.intel.com/
+|http://www.realtek.com/
+|http://www.realtek.com.tw
+||azureedge.net
+|https://c.s-microsoft.com/
+|https://*.sourceforge.net/
+||osdn.jp
+|https://evoseedbox.com/
+|https://www.safe-in-cloud.com/
+||js.gleam.io
+|https://www.indiegala.com/
+|https://ips.pepitastore.com/
+|https://0.client-channel.google.com/
+|https://cdnjs.cloudflare.com/
+|https://exhentai.org/
+|https://*.bootstrapcdn.com/
+||corsair.com
+|https://support.office.com/
+|https://whatimg.com
+
+|https://*.intel.com/
+|https://code.jquery.com/
+
+||vmware.com
+||keil.com
+||sandboxie.com
+|https://assets.onestore.ms/
+||*.cdn.skype.com
+||nvidia.com
+|https://*.windows.com
+||microsoft.com
+|https://maxcdn.bootstrapcdn.com/
+||openwrt.org
+|worldoftrucks.com
+||pushbullet.com
+|https://www.dreamspark.com/
+|https://mega.nz/
+||debian.org
+|https://truckersmp.com/
+||vcb-s.com
+||netsarang.com
+||netsarang.net
+||sfx.ms
+||steamcommunity.com
+|https://www.python.org/
+||githubusercontent.com
+|https://steamdb.info
+||dopekeys.com/
+||aida64.com
+|https://anime-pictures.net/
+||xda-developers.com
+||sonymobile.com
+||mmohuts.com
+|cdn.mmohuts.com
+||stackoverflow.com
+||sstatic.net
+||chickenbones.net
+||ati.com
+||download.amd.com
+||support.amd.com
+|https://www.humblebundle.com
+|https://simplo.gg
+|https://goldengiveaways.org/
+||imgbabes.com
+||autodesk.com
+||kimsufi.com
+||ovh.com
+||minecraftforge.net
+||player.to
+||optifine.net
+||forestryforminecraft.info
+||logitech.com
+||pixsense.net
+||cdnst.net
+||marvelousga.com
+||simplo.gg
+||giveawayhopper.com
+||nyaa.si
+||gamepedia.com
+||xbox.com
+! ||bluestacks.com
+||docker.com
+||github.com
+||prok.pw
+||industrial-craft.net
+||mod-buildcraft.com
+||atomicstryker.net
+||sdlc-esd.oracle.com
+||radio.truckers.fm
+||ea.com
+@@||ssl-lvlt.cdn.ea.com
+@@||lvlt.cdn.ea.com
+||kernel.org
+|http://203.104.209.7/
+||125.6.189.7
+||dmm.com
+|https://a.fsdn.com
+|https://sukebei.pantsu.cat/
+||www.f2p.com
+||techpowerup.com
+||img.yt
+||img*.imgflare.com
+||konachan.com
+||c.speedtest.net
+||warframe.market
+||twitch.tv
+||twitchcdn.net
+||twitchsvc.net
+||ttvnw.net
+||jtvnw.net
+||epicgames.com
+@@||download.epicgames.com
+||mozilla.org
+||mozilla.net
+||sap.com
+||opengapps.org
+||powercolor.com
+!||internetdownloadmanager.com
+||*.reddit*.com
